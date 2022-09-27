@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li :hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.navBar{
+    background-color: #81a684;
+    margin: 5px;
+    padding: 1px;
+    border-radius: 10px;
+}
